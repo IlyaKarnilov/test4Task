@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ts\\test2\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\views\\users\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\views\\users\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\data\\testuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\data\\testuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\areas\\identity\\data\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\areas\\identity\\data\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\migrations\\20240423122535_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\migrations\\20240423122535_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\test2\\test\\test\\migrations\\20240423144138_fieldisblocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\migrations\\20240423144138_fieldisblocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 528,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "test\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T12:18:36.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T12:19:02.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "test\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:54:02.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManagementService.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Services\\UserManagementService.cs",
+              "RelativeDocumentMoniker": "test\\Services\\UserManagementService.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Services\\UserManagementService.cs",
+              "RelativeToolTip": "test\\Services\\UserManagementService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:01:35.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:10:07.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "test\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T15:33:36.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Views\\Users\\Users.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Users\\Users.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Views\\Users\\Users.cshtml",
+              "RelativeToolTip": "test\\Views\\Users\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:14:18.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testUser.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Data\\testUser.cs",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Data\\testUser.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Data\\testUser.cs",
+              "RelativeToolTip": "test\\Areas\\Identity\\Data\\testUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:18:15.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:14:46.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\appsettings.json",
+              "RelativeDocumentMoniker": "test\\appsettings.json",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\appsettings.json",
+              "RelativeToolTip": "test\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T12:15:41.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:35:57.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:37:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T12:19:15.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:14:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T12:18:37.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:19:40.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "test\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "test\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAxwCEAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:13:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T12:12:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T12:12:54.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "test\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T12:12:55.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersViewModel.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Models\\UsersViewModel.cs",
+              "RelativeDocumentMoniker": "test\\Models\\UsersViewModel.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Models\\UsersViewModel.cs",
+              "RelativeToolTip": "test\\Models\\UsersViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:33:34.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "testContext.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Data\\testContext.cs",
+              "RelativeDocumentMoniker": "test\\Areas\\Identity\\Data\\testContext.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Areas\\Identity\\Data\\testContext.cs",
+              "RelativeToolTip": "test\\Areas\\Identity\\Data\\testContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:14:23.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240423144138_FieldIsBlocked.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Migrations\\20240423144138_FieldIsBlocked.cs",
+              "RelativeDocumentMoniker": "test\\Migrations\\20240423144138_FieldIsBlocked.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Migrations\\20240423144138_FieldIsBlocked.cs",
+              "RelativeToolTip": "test\\Migrations\\20240423144138_FieldIsBlocked.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:41:38.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240423122535_first.cs",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\Migrations\\20240423122535_first.cs",
+              "RelativeDocumentMoniker": "test\\Migrations\\20240423122535_first.cs",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\Migrations\\20240423122535_first.cs",
+              "RelativeToolTip": "test\\Migrations\\20240423122535_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:25:35.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\ts\\test2\\test\\test\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "test\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\ts\\test2\\test\\test\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "test\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-23T12:14:14.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
