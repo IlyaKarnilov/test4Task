@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\task4\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|d:\\ts\\task4\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A5456C27-0309-40C9-A414-03A3B32BF20A}|test\\test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -114,8 +118,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 528,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\ts\\task4\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\ts\\task4\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-25T14:43:52.111Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -124,14 +141,14 @@
               "RelativeDocumentMoniker": "test\\Dockerfile",
               "ToolTip": "D:\\ts\\task4\\test\\Dockerfile",
               "RelativeToolTip": "test\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-04-25T10:05:18.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Shared\\_LoginPartial.cshtml",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Home\\Index.cshtml",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserManagementService.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Services\\UserManagementService.cs",
               "RelativeDocumentMoniker": "test\\Services\\UserManagementService.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -191,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Shared\\Error.cshtml",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Users.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Views\\Users\\Users.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Users\\Users.cshtml",
@@ -215,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "testUser.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Data\\testUser.cs",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Data\\testUser.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ts\\task4\\test\\appsettings.json",
               "RelativeDocumentMoniker": "test\\appsettings.json",
@@ -247,12 +264,11 @@
               "RelativeToolTip": "test\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T12:15:41.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T12:15:41.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -264,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -276,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -288,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Program.cs",
               "RelativeDocumentMoniker": "test\\Program.cs",
@@ -300,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Shared\\_Layout.cshtml",
@@ -312,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -324,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "test\\Controllers\\UsersController.cs",
@@ -336,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -348,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -360,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -372,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UsersViewModel.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Models\\UsersViewModel.cs",
               "RelativeDocumentMoniker": "test\\Models\\UsersViewModel.cs",
@@ -384,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "testContext.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Areas\\Identity\\Data\\testContext.cs",
               "RelativeDocumentMoniker": "test\\Areas\\Identity\\Data\\testContext.cs",
@@ -396,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "20240423144138_FieldIsBlocked.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Migrations\\20240423144138_FieldIsBlocked.cs",
               "RelativeDocumentMoniker": "test\\Migrations\\20240423144138_FieldIsBlocked.cs",
@@ -408,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "20240423122535_first.cs",
               "DocumentMoniker": "D:\\ts\\task4\\test\\Migrations\\20240423122535_first.cs",
               "RelativeDocumentMoniker": "test\\Migrations\\20240423122535_first.cs",
@@ -420,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\ts\\task4\\test\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "test\\ScaffoldingReadMe.txt",
